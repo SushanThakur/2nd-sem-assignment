@@ -1,0 +1,34 @@
+CLass: 
+	It is a blueprint to create object
+	It binds/encapsulates both attribute and behaviour
+	Memory is not allocated for class
+
+Object: 
+	It is instance of class.
+	Memory is allocates when object is created
+
+Constructor:
+	Constructor is special member funciton, that get called auto when object is created.
+
+	def __init__ (self, ... ):
+		pass
+		
+	self -> points to current instance
+	
+q1. Bank Account
+	customer_name
+	Acc_no
+	balance_amt
+	
+	deposite()
+	withdraw()
+	checkBal()
+	
+q2. Student
+	name
+	reg_no
+	marks: [5] 500
+	
+	getPercentage()
+	getResult()
+	
