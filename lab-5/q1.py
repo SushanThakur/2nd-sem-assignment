@@ -5,7 +5,8 @@ class Book:
         self.price = price
 
     def display_info(self):
-        print(f"Title: {self.title}, Author: {self.author}, Price: {self.price}")
+        print(
+            f"Title: {self.title}, Author: {self.author}, Price: {self.price}")
 
     def update_price(self, new_price):
         self.price = new_price
