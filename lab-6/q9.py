@@ -20,7 +20,7 @@ class Contact:
 
 
 # Example
-p1 = Person("Amit Kumar", 22)
-a1 = Address("MG Road", "Bangalore", "560001")
+p1 = Person("Amit", 22)
+a1 = Address("MG", "USA", "560001")
 c1 = Contact(p1, a1)
 c1.display_contact()

@@ -14,5 +14,5 @@ class Employee(Person):
 
 
 # Example
-emp1 = Employee("Priya Singh", 28, "E101", 50000)
+emp1 = Employee("abc", 28, "E101", 50000)
 emp1.display_employee()

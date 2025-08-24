@@ -11,5 +11,5 @@ class Student:
 
 
 # Example
-s1 = Student("Rahul Sharma", 101, 88)
+s1 = Student("Rahul", 101, 88)
 s1.display_info()
